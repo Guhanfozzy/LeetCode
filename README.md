@@ -10,6 +10,7 @@
 | [1791-richest-customer-wealth](https://github.com/Guhanfozzy/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Guhanfozzy/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Guhanfozzy/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Guhanfozzy/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Guhanfozzy/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Guhanfozzy/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/Guhanfozzy/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Guhanfozzy/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Guhanfozzy/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
