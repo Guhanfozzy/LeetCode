@@ -11,6 +11,7 @@
 | [2048-build-array-from-permutation](https://github.com/Guhanfozzy/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Guhanfozzy/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Guhanfozzy/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Guhanfozzy/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/Guhanfozzy/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@
 | [0001-two-sum](https://github.com/Guhanfozzy/LeetCode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/Guhanfozzy/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Guhanfozzy/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [2556-convert-the-temperature](https://github.com/Guhanfozzy/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Guhanfozzy/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Guhanfozzy/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Guhanfozzy/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
 | ------- |
