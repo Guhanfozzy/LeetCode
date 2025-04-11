@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Guhanfozzy/LeetCode/tree/master/2048-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [2556-convert-the-temperature](https://github.com/Guhanfozzy/LeetCode/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->
