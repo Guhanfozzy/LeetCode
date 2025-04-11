@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2491-smallest-even-multiple](https://github.com/Guhanfozzy/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Guhanfozzy/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Guhanfozzy/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Guhanfozzy/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Guhanfozzy/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Guhanfozzy/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
