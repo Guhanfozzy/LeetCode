@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Guhanfozzy/LeetCode/tree/master/0001-two-sum) |
 | [1580-shuffle-the-array](https://github.com/Guhanfozzy/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/Guhanfozzy/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Guhanfozzy/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Guhanfozzy/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Guhanfozzy/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [3778-transform-array-by-parity](https://github.com/Guhanfozzy/LeetCode/tree/master/3778-transform-array-by-parity) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Guhanfozzy/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
