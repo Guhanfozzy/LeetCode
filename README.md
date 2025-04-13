@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Guhanfozzy/LeetCode/tree/master/0007-reverse-integer) |
+| [0319-bulb-switcher](https://github.com/Guhanfozzy/LeetCode/tree/master/0319-bulb-switcher) |
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Guhanfozzy/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Guhanfozzy/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Guhanfozzy/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Guhanfozzy/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
