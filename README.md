@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Guhanfozzy/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Guhanfozzy/LeetCode/tree/master/0075-sort-colors) |
 | [1580-shuffle-the-array](https://github.com/Guhanfozzy/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Guhanfozzy/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -59,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Guhanfozzy/LeetCode/tree/master/0075-sort-colors) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Guhanfozzy/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/Guhanfozzy/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Matrix
@@ -76,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Guhanfozzy/LeetCode/tree/master/0075-sort-colors) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Guhanfozzy/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
