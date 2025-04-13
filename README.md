@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Guhanfozzy/LeetCode/tree/master/0007-reverse-integer) |
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Guhanfozzy/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Guhanfozzy/LeetCode/tree/master/2556-convert-the-temperature) |
