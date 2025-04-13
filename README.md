@@ -9,6 +9,7 @@
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Guhanfozzy/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Guhanfozzy/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Guhanfozzy/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Guhanfozzy/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Guhanfozzy/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Guhanfozzy/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -22,6 +23,7 @@
 | [0001-two-sum](https://github.com/Guhanfozzy/LeetCode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/Guhanfozzy/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Guhanfozzy/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Guhanfozzy/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Guhanfozzy/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3778-transform-array-by-parity](https://github.com/Guhanfozzy/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Sorting
 |  |
