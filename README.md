@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Guhanfozzy/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Guhanfozzy/LeetCode/tree/master/0075-sort-colors) |
 | [1580-shuffle-the-array](https://github.com/Guhanfozzy/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Guhanfozzy/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Guhanfozzy/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Guhanfozzy/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Guhanfozzy/LeetCode/tree/master/0319-bulb-switcher) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Guhanfozzy/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
