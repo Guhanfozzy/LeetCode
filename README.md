@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Guhanfozzy/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Guhanfozzy/LeetCode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/Guhanfozzy/LeetCode/tree/master/0319-bulb-switcher) |
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Guhanfozzy/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Guhanfozzy/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Guhanfozzy/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
