@@ -99,4 +99,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Guhanfozzy/LeetCode/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Guhanfozzy/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
