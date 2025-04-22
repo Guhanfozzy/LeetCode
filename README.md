@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Guhanfozzy/LeetCode/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/Guhanfozzy/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1797-goal-parser-interpretation](https://github.com/Guhanfozzy/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Guhanfozzy/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -38,6 +39,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Guhanfozzy/LeetCode/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/Guhanfozzy/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Guhanfozzy/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3811-reverse-degree-of-a-string](https://github.com/Guhanfozzy/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -47,6 +49,7 @@
 | [0007-reverse-integer](https://github.com/Guhanfozzy/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Guhanfozzy/LeetCode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/Guhanfozzy/LeetCode/tree/master/0319-bulb-switcher) |
+| [0415-add-strings](https://github.com/Guhanfozzy/LeetCode/tree/master/0415-add-strings) |
 | [1635-number-of-good-pairs](https://github.com/Guhanfozzy/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Guhanfozzy/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Guhanfozzy/LeetCode/tree/master/2556-convert-the-temperature) |
