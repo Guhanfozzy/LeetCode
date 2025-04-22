@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Guhanfozzy/LeetCode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Guhanfozzy/LeetCode/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/Guhanfozzy/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1797-goal-parser-interpretation](https://github.com/Guhanfozzy/LeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -39,6 +40,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Guhanfozzy/LeetCode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Guhanfozzy/LeetCode/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/Guhanfozzy/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Guhanfozzy/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Guhanfozzy/LeetCode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Guhanfozzy/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Guhanfozzy/LeetCode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/Guhanfozzy/LeetCode/tree/master/0319-bulb-switcher) |
 | [0415-add-strings](https://github.com/Guhanfozzy/LeetCode/tree/master/0415-add-strings) |
