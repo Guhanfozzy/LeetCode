@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Guhanfozzy/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Guhanfozzy/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Guhanfozzy/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Guhanfozzy/LeetCode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/Guhanfozzy/LeetCode/tree/master/0319-bulb-switcher) |
@@ -79,6 +80,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Guhanfozzy/LeetCode/tree/master/0029-divide-two-integers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Guhanfozzy/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Number Theory
 |  |
